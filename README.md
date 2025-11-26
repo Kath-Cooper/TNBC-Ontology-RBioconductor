@@ -1,4 +1,4 @@
-# Ontology_Ontology_DGE file in R
+# Oncology_Ontology_DGE file in R
 File is written for the visual format of R using an R markdown file. Please launch in RStudio. 
 
 Ontology workshop originally intended for James Madison University BIO477/577: Genetics of Cancer.
