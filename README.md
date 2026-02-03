@@ -1,5 +1,5 @@
 # Oncology_Ontology_DGE file in R
-File is written for the visual format of R using an R markdown file. Please launch in RStudio. 
+File is written for the visual format of R, updated for 4.5.0, using an R markdown file. Please launch in RStudio. 
 
 Ontology workshop originally intended for James Madison University BIO477/577: Genetics of Cancer. Uses triple negative breast cancer (TNBC) as the focus. 
 
@@ -12,4 +12,6 @@ All packages are listed in an associated Google Doc linked within the file.
 Data citation: Varley KE, Gertz J, Roberts BS, Davis NS et al. Recurrent read-through fusion transcripts in breast cancer. Breast Cancer Res Treat 2014 Jul;146(2):287-97. PMID: 24929677
 
 Ontology plots adapted from: https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/ 
+
+Computational requirements: Original script was ran using a Lenovo Yogo laptop with an Intel i5 processor and 15.8 G of memmory. 
 
