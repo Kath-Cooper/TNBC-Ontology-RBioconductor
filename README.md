@@ -13,5 +13,5 @@ Data citation: Varley KE, Gertz J, Roberts BS, Davis NS et al. Recurrent read-th
 
 Ontology plots adapted from: https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/ 
 
-Computational requirements: Original script was ran using a Lenovo Yogo laptop with an Intel i5 processor and 15.8 G of memmory. 
+Computational requirements: Original script was ran using a Lenovo Yogo laptop with an Intel i5 processor and 15.8 G of memory. 
 
